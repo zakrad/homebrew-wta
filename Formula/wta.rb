@@ -1,8 +1,8 @@
 class Wta < Formula
   desc "Run parallel AI coding agents in isolated git worktrees + tmux, from a TUI dashboard"
   homepage "https://github.com/zakrad/wta"
-  url "https://github.com/zakrad/wta/archive/refs/tags/v0.1.17.tar.gz"
-  sha256 "254aa1b324db7c48f14ea7500aa7e1947851e41240e2dacd53750a40adf7149b"
+  url "https://github.com/zakrad/wta/archive/refs/tags/v0.1.18.tar.gz"
+  sha256 "407e6d43f40b3b46765d71718f40de93ec4269706e72c35598f34db5b319e3de"
   license "MIT"
   head "https://github.com/zakrad/wta.git", branch: "main"
 
