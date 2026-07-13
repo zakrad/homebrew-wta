@@ -1,5 +1,5 @@
 class Wta < Formula
-  desc "Run parallel AI coding agents in isolated git worktrees + tmux, from a TUI dashboard"
+  desc "Terminal harness for parallel AI coding agents in git worktrees + tmux"
   homepage "https://github.com/zakrad/wta"
   url "https://github.com/zakrad/wta/archive/refs/tags/v0.1.31.tar.gz"
   sha256 "4970425ee99f364728fed59fd84565b21be9668cc0333706fa71f0976cdc8674"
