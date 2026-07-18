@@ -1,8 +1,8 @@
 class Wta < Formula
   desc "Harness for parallel AI coding agents in isolated git worktrees + tmux"
   homepage "https://github.com/zakrad/wta"
-  url "https://github.com/zakrad/wta/archive/refs/tags/v0.1.33.tar.gz"
-  sha256 "65c415ca02b431f3e8a33e131274849a2986339721dd22107c19705eb12fbf08"
+  url "https://github.com/zakrad/wta/archive/refs/tags/v0.1.34.tar.gz"
+  sha256 "151770b473363918998c136d3c88e79c239edb7983bd172a9c58459350ab1f7d"
   license "MIT"
   head "https://github.com/zakrad/wta.git", branch: "main"
 
